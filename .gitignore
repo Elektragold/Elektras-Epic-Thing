@@ -1,0 +1,8 @@
+*.db
+*.db-journal
+__pycache__
+.vscode
+venv
+discord bot.sublime-project
+lib/bot/token.0
+discord bot.sublime-workspace
