@@ -1,5 +1,5 @@
 discord.py==1.7.2
-aiohttp==3.7.4.post0
+aiohttp==3.7.4
 requests==2.25.1
 discord==1.0.1
 flask
