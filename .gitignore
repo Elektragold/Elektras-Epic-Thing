@@ -6,3 +6,4 @@ venv
 discord bot.sublime-project
 lib/bot/token.0
 discord bot.sublime-workspace
+test.py

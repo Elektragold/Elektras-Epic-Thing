@@ -9,7 +9,7 @@ OWNER_IDS = [315447222567305216]
 COGS = [path.split("\\")[-1][:-3] for path in glob("./lib/cogs/*.py")]
 
 
-class Ready(object):
+class Ready():
     def __init__(self):
         for cog in COGS:
             setattr(self, cog, False)
